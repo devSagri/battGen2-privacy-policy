@@ -1,4 +1,3 @@
-# BatteryGen2Analyser-privacy-policy
 # Politique de confidentialité
 
 **Dernière mise à jour : 19/03/2025**
